@@ -1,5 +1,7 @@
 A complete pack with lots of icons from various places in windows 11 as well as other microsoft products.
 
+I have been considering creating individual DLLs, LMK if you'd like me to do that
+
 .ICO format, most of these are 256x :)
 
 
