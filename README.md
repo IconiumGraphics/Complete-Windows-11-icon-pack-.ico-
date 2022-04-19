@@ -11,4 +11,4 @@ v2- removed symbols, added lots of icons from microsoft documentation pages and 
 {i won't be updating until a lot of new ones are released so don't expect a rerelease any time soon}
 
 NOTE: I do not include PNGs or SVGs, don't ask for them. I don't hold onto them so if you want the original images get them yourself lol
-(cloudconvert works pretty well for it)
+(cloudconvert works pretty well for it, except they have a quota)
